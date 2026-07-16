@@ -17,6 +17,17 @@ Currently building - **[ADC PROJECT - SHOWUP](https://showup-499214.ew.r.appspot
 
 ---
 
+
+<div align="center">
+
+  <!-- VERSÃO PARA DARK MODE (Aparece apenas quando o GitHub está em Dark Mode) -->
+  <a href="#gh-dark-mode-only">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Alvesss04&layout=compact&theme=tokyonight&langs_count=7" alt="Top Languages Dark" height="190" />
+  </a>
+
+</div>
+
+
 ## 🚀 Featured Projects - (Under construction)
 
 - **[CloudFlare LLM](https://github.com/Alvesss04/Alvesss-ChatBot-CloudFlare)**  
