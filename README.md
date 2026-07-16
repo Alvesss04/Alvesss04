@@ -19,7 +19,7 @@ Currently building - **[ADC PROJECT - SHOWUP](https://showup-499214.ew.r.appspot
 
 ## 🚀 Featured Projects - (Under construction)
 
-- **[Cloud Flare LLM](https://github.com/Alvesss04/Alvesss-ChatBot-CloudFlare)**  
+- **[CloudFlare LLM](https://github.com/Alvesss04/Alvesss-ChatBot-CloudFlare)**  
   An ai chatbot design with claude and cloudflare template. (Not completed)
 
 ---
