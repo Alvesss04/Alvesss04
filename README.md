@@ -12,8 +12,8 @@ Currently building - **[ADC PROJECT - SHOWUP](https://showup-499214.ew.r.appspot
 - **Languages & Frameworks:** Java, Python, C,  JavaScript (ES6+), React, SQL, Dart, OCAML, Assembly
 - **Styling & Design:** Html,Css
 - **Special Tools:** Firebase, Supabase, Git, Flutter, MySQL, Docker
-- **Software Engineering & Methodologies:** UML, Scrum, REST APIs, gRPC, Object-Oriented Design (Design Patterns), Code Smells
-- **Other:** WebGL, Prolog, Design algorithm and analysis
+- **Software Engineering & Methodologies:** UML, Scrum, REST APIs, gRPC, Object-Oriented Design (Design Patterns), Code Smells, VMs
+- **Other:** WebGL, Prolog, Design algorithm and analysis, Cyber Security basics (Ethical Hacking)
 
 ---
 
