@@ -5,7 +5,7 @@ I’m a Software Engineering student at Nova School of Science and Technology wh
 ---
 
 ## 👨‍💻 Work In Progress
-Currently building - **[ADC PROJECT - SHOWUP](https://showup-499214.ew.r.appspot.com/)**. It's live and working!
+Currently building - **[ADC PROJECT - SHOWUP](https://showup-499214.ew.r.appspot.com/)**. It's live and working, tested and have good reviews!
 
 ## 🛠️ Tech Stack
 
