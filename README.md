@@ -30,10 +30,10 @@ I’m a Software Engineering Masters student at Nova School of Science and Techn
 
 ## 🚀 Featured Projects - (Under construction)
 
-- **[ADC PROJECT - SHOWUP](https://github.com/Alvesss04/ShowUP)** 
+- **[ADC PROJECT - SHOWUP](https://github.com/Alvesss04/ShowUP)** - 
   Bachelors´s Degree Final Project - An app envolving events for community! its live.
 
-- **[CloudFlare LLM](https://github.com/Alvesss04/Alvesss-ChatBot-CloudFlare)**  
+- **[CloudFlare LLM](https://github.com/Alvesss04/Alvesss-ChatBot-CloudFlare)** - 
   An ai chatbot design with claude and cloudflare template.
 
 
