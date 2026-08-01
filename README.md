@@ -1,16 +1,16 @@
 # Hi, I’m Tomás Alves 👋
 
-I’m a Software Engineering student at Nova School of Science and Technology who strives to build robust and scalable Systems through clean, maintainable code and efficient architecture. I’m currently focused on Software Engineering with a strong passion for Backend development. A bit of Frontend is also good 😁
+I’m a Software Engineering Masters student at Nova School of Science and Technology who strives to build robust and scalable Systems through clean, maintainable code and efficient architecture. I’m currently focused on Software Engineering with a strong passion for Backend development. A bit of Frontend is also good 😁
 
 ---
 
 ## 👨‍💻 Work In Progress
-Currently building - **[ADC PROJECT - SHOWUP](https://showup-499214.ew.r.appspot.com/)**. It's live and working, tested and have good reviews!
+**[CloudFlare LLM](https://github.com/Alvesss04/Alvesss-ChatBot-CloudFlare)**
 
 ## 🛠️ Tech Stack
 
 - **Languages & Frameworks:** Java, Python, C,  JavaScript (ES6+), React, SQL, Dart, OCAML, Assembly
-- **Styling & Design:** Html,Css
+- **Styling & Design:** Html, Css
 - **Special Tools:** Firebase, Supabase, Git, Flutter, MySQL, Docker
 - **Software Engineering & Methodologies:** UML, Scrum, REST APIs, gRPC, Object-Oriented Design (Design Patterns), Code Smells, VMs
 - **Other:** WebGL, Prolog, Design algorithm and analysis, Cyber Security basics (Ethical Hacking)
@@ -30,8 +30,12 @@ Currently building - **[ADC PROJECT - SHOWUP](https://showup-499214.ew.r.appspot
 
 ## 🚀 Featured Projects - (Under construction)
 
+- **[ADC PROJECT - SHOWUP](https://showup-499214.ew.r.appspot.com/)** 
+  Balcheor´s Degree Final Project - An app envolving events for community! its live.
+
 - **[CloudFlare LLM](https://github.com/Alvesss04/Alvesss-ChatBot-CloudFlare)**  
-  An ai chatbot design with claude and cloudflare template. (Not completed)
+  An ai chatbot design with claude and cloudflare template.
+
 
 ---
 
