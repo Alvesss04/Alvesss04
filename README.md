@@ -31,7 +31,7 @@ I’m a Software Engineering Masters student at Nova School of Science and Techn
 ## 🚀 Featured Projects - (Under construction)
 
 - **[ADC PROJECT - SHOWUP](https://showup-499214.ew.r.appspot.com/)** 
-  Balcheor´s Degree Final Project - An app envolving events for community! its live.
+  Bachelors´s Degree Final Project - An app envolving events for community! its live.
 
 - **[CloudFlare LLM](https://github.com/Alvesss04/Alvesss-ChatBot-CloudFlare)**  
   An ai chatbot design with claude and cloudflare template.
