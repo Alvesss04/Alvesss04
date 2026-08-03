@@ -12,7 +12,7 @@ I’m a Software Engineering Masters student at Nova School of Science and Techn
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,nextjs,python,c,javascript,typescript,react,mysql,dart,ocaml,html,css,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,github,figma,git,vite,flutter,docker,firebase,mongodb,supabase,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,github,figma,git,vite,flutter,docker,firebase,mongodb,supabase,cloudflare,kali" />
 </div>
 
 <br/>
