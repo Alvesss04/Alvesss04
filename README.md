@@ -1,4 +1,4 @@
-# Hi, I’m Tomás Alves 👋
+# Hi Friend, I’m Tomás Alves 🇵🇹🏄
 
 I’m a Software Engineering Masters student at Nova School of Science and Technology who strives to build robust and scalable Systems through clean, maintainable code and efficient architecture. I’m currently focused on Software Engineering with a strong passion for Backend development. A bit of Frontend is also good 😁
 
@@ -55,9 +55,9 @@ I’m a Software Engineering Masters student at Nova School of Science and Techn
 
 ---
 
-## 📫 Let’s Connect
+## 🪂 Let’s Connect
 
-| 🌐 Website | 💼 LinkedIn | 🐙 GitHub | 📧 Email |
+| 🌐 Website | 🪎 LinkedIn | 🐙 GitHub | 📧 Email |
 | :----------: | :--------: | :-------: | :------: |
 | [Under Construction](Under Contruction) | [in/tomasramosalves](linkedin.com/in/tomasramosalves) | [@Alvesss04](https://github.com/Alvesss04) | [tomas.ramos.alves@gmail.com](mailto:tomas.ramos.alves@gmail.com) |
 
