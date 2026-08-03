@@ -7,13 +7,22 @@ I’m a Software Engineering Masters student at Nova School of Science and Techn
 ## 👨‍💻 Work In Progress
 **[WebSite](https://github.com/Alvesss04/WebSite)**
 
-## 🛠️ Tech Stack
+<hr/>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,nextjs,python,c,javascript,typescript,react,mysql,dart,ocaml,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,github,figma,git,vite,flutter,docker,firebase,mongodb,supabase,cloudflare" />
+</div>
 
-- **Languages & Frameworks:** Java, Python, C,  JavaScript (ES6+), React, SQL, Dart, OCAML, Assembly
-- **Styling & Design:** Html, Css
-- **Special Tools:** Firebase, Supabase, Git, Flutter, MySQL, Docker
+<br/>
+<hr/>
+
+- **Languages & Frameworks:** Java, Python, C,  JavaScript, TypeScript, React, MYSQL, Dart, OCAML, Assembly, Node.js
+- **Styling & Design:** Html, Css, Bootstrap
+- **Special Tools:** Firebase, Supabase, Git, Flutter, MySQL, Docker, Figma, VSCODE, INTELLIJ, Eclipse
 - **Software Engineering & Methodologies:** UML, Scrum, REST APIs, gRPC, Object-Oriented Design (Design Patterns), Code Smells, VMs
-- **Other:** WebGL, Prolog, Design algorithm and analysis, Cyber Security basics (Ethical Hacking)
+- **Other:** WebGL, Prolog, Vite, CloudFlare AI, Design algorithm and analysis, Cyber Security basics (Ethical Hacking)
 
 ---
 
