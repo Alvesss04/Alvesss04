@@ -26,6 +26,13 @@ I’m a Software Engineering Masters student at Nova School of Science and Techn
 
 ---
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Alvesss04/Alvesss04/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 <div align="center">
 
