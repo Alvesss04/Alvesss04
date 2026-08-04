@@ -2,7 +2,6 @@
 
 I’m a Software Engineering Masters student at Nova School of Science and Technology who strives to build robust and scalable Systems through clean, maintainable code and efficient architecture. I’m currently focused on Software Engineering with a strong passion for Backend development. A bit of Frontend is also good 😁
 
----
 
 ## 👨‍💻 Work In Progress
 **[WebSite](https://github.com/Alvesss04/WebSite)**
