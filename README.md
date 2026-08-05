@@ -1,6 +1,6 @@
 # Hi Friend, I’m Tomás Alves 🇵🇹🏄
 
-I’m a Software Engineering Masters student at Nova School of Science and Technology who strives to build robust and scalable Systems through clean, maintainable code and efficient architecture. I’m currently focused on Software Engineering with a strong passion for Backend development. A bit of Frontend is also good 😁
+Hi! I’m a Software Engineering Master’s student at NOVA FCT, focused on building robust and scalable systems through clean code and solid architecture (I try my best😉). I’m currently focused on Software Engineering with a strong passion for Backend development. A bit of Frontend is also good 😁
 
 
 ## 👨‍💻 Work In Progress
