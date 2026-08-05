@@ -51,6 +51,30 @@ I’m a Software Engineering Masters student at Nova School of Science and Techn
 - **[CloudFlare LLM](https://github.com/Alvesss04/Alvesss-ChatBot-CloudFlare)** - 
   An ai chatbot design with claude and cloudflare template.
 
+---
+
+## 🎓 NOVA FCT - BSc in Computer Science and Engineering (LEI)
+
+In this section you can find the projects I developed during my Bachelor Degree 😁
+
+| Year | Semester | Course Name | Repository |
+| :---: | :---: | :--- | :---: |
+| **1º** | 1º | 💻 Introduction to Programming | [**IP**](https://github.com/Alvesss04/IP) |
+| **1º** | 1º | 🔌 Logic Systems | [**SL**](https://github.com/Alvesss04/SL) |
+| **1º** | 2º | 🖥️ Computer Architecture | [**AC**](https://github.com/Alvesss04/AC) |
+| **1º** | 2º | ☕ Object-Oriented Programming | [**POO**](https://github.com/Alvesss04/POO) |
+| | | | |
+| **2º** | 3º | 🛤️ Algorithms and Data Structures | [**AED**](https://github.com/Alvesss04/AED) |
+| **2º** | 3º | 🐧 Fundamentals of Operating Systems | [**FSO**](https://github.com/Alvesss04/FSO) |
+| **2º** | 4º | 🗄️ Databases | [**BD**](https://github.com/Alvesss04/BD) |
+| **2º** | 4º | 🐫 Programming Languages and Environments | [**LAP**](https://github.com/Alvesss04/LAP) |
+| | | | |
+| **3º** | 5º | 🎨 Computer Graphics and Interfaces | [**CGI**](https://github.com/Alvesss04/CGI) |
+| **3º** | 5º | 🤖 Artificial Intelligence | [**IA**](https://github.com/Alvesss04/IA) |
+| **3º** | 5º | ⚙️ Software Engineering | [**ES**](https://github.com/Alvesss04/ES) |
+| **3º** | 5º | 🌐 Computer Networks | [**RC**](https://github.com/Alvesss04/RC) |
+| **3º** | 6º | 🧠 Algorithm Design and Analysis | [**ADA**](https://github.com/Alvesss04/ADA) |
+| **3º** | 6º | ☁️ Distributed Systems | [**SD**](https://github.com/Alvesss04/SD) |
 
 ---
 
