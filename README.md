@@ -6,7 +6,7 @@ Hi! I’m a Software Engineering Master’s student at NOVA FCT, focused on buil
 ## 👨‍💻 Work In Progress
 **[ShowUP](https://github.com/Alvesss04/ShowUP)** - Check it out, its Live!
 
-**[WebSite](https://github.com/Alvesss04/WebSite)** - Still starting...😴
+**[WebSite](https://github.com/Alvesss04/WebSite)** - Still starting (almost!)...😴
 
 <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
