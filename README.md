@@ -3,10 +3,10 @@
 Hi! I’m a Software Engineering Master’s student at NOVA FCT, focused on building robust and scalable systems through clean code and solid architecture (I try my best 😉). I’m currently focused on Software Engineering with a strong passion for Backend development. A bit of Frontend is also good 😁
 
 
-## 👨‍💻 Work In Progress
+## 🌏 Work In Progress
 **[ShowUP](https://github.com/Alvesss04/ShowUP)** - Check it out, its Live!
 
-**[WebSite](https://github.com/Alvesss04/WebSite)** - Still starting (now!)...😴
+**[WebSite](https://github.com/Alvesss04/WebSite)** - Working as you reading 🪂
 
 <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
