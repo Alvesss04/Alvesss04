@@ -92,3 +92,7 @@ In this section you can find the projects I developed during my Bachelor Degree 
 ---
 
 > *See you around!*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
