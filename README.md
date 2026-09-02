@@ -4,9 +4,9 @@ Hi! I’m a Software Engineering Master’s student at NOVA FCT, focused on buil
 
 
 ## 🌏 Work In Progress
-**[WebSite](https://github.com/Alvesss04/MyPortfolio)** - Working as you reading - (Live now) 🪂 
+**[WebSite](https://alvesss-portfolio.tra-alves.workers.dev)** - Working as you reading 🪂 
 
-**[ShowUP](https://github.com/Alvesss04/ShowUP)** - Check it out, its Live!
+**[ShowUP](https://showup-499214.ew.r.appspot.com)** - Check it out my Bachelors final project 🏂
 
 <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -46,6 +46,9 @@ Hi! I’m a Software Engineering Master’s student at NOVA FCT, focused on buil
 
 
 ## 🚀 Featured Projects - (Under construction)
+
+- **[WebSite](https://github.com/Alvesss04/MyPortfolio)** -
+  My personal Website with all the information about me! its live
 
 - **[ADC PROJECT - SHOWUP](https://github.com/Alvesss04/ShowUP)** - 
   Bachelors´s Degree Final Project - An app envolving events for community! its live.
@@ -87,7 +90,7 @@ In this section you can find the projects I developed during my Bachelor Degree 
 
 | 🌐 Website | 🪎 LinkedIn | 🐙 GitHub | 📧 Email |
 | :----------: | :--------: | :-------: | :------: |
-| [Under Construction](Under Contruction) | [in/tomasramosalves](linkedin.com/in/tomasramosalves) | [@Alvesss04](https://github.com/Alvesss04) | [tomas.ramos.alves@gmail.com](mailto:tomas.ramos.alves@gmail.com) |
+| [WebSite](https://alvesss-portfolio.tra-alves.workers.dev) | [in/tomasramosalves](linkedin.com/in/tomasramosalves) | [@Alvesss04](https://github.com/Alvesss04) | [tomas.ramos.alves@gmail.com](mailto:tomas.ramos.alves@gmail.com) |
 
 ---
 
