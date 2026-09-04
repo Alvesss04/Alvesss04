@@ -4,7 +4,7 @@ Hi! I’m a Software Engineering Master’s student at NOVA FCT, focused on buil
 
 
 ## 🌏 Work In Progress
-**[WebSite](https://alvesss-portfolio.tra-alves.workers.dev)** - Working as you reading 🪂 
+**[WebSite](https://alvesss.me)** - Working as you reading 🪂 
 
 **[ShowUP](https://showup-499214.ew.r.appspot.com)** - Check it out my Bachelors final project 🏂
 
