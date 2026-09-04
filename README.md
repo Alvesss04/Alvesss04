@@ -91,7 +91,7 @@ In this section you can find the projects I developed during my Bachelor Degree 
 
 | 🌐 Website | 🪎 LinkedIn | 🐙 GitHub | 📧 Email |
 | :----------: | :--------: | :-------: | :------: |
-| [WebSite](https://alvesss-portfolio.tra-alves.workers.dev) | [in/tomasramosalves](linkedin.com/in/tomasramosalves) | [@Alvesss04](https://github.com/Alvesss04) | [tomas.ramos.alves@gmail.com](mailto:tomas.ramos.alves@gmail.com) |
+| [WebSite](https://alvesss.me) | [in/tomasramosalves](linkedin.com/in/tomasramosalves) | [@Alvesss04](https://github.com/Alvesss04) | [tomas.ramos.alves@gmail.com](mailto:tomas.ramos.alves@gmail.com) |
 </div>
 
 ---
