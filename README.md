@@ -48,7 +48,7 @@ Hi! I’m a Software Engineering Master’s student at NOVA FCT, focused on buil
 ## 🚀 Featured Projects - (Under construction)
 
 - **[WebSite](https://github.com/Alvesss04/MyPortfolio)** -
-  My personal Website with all the information about me! its live
+  My personal Website with all the Projects and information about me! its live
 
 - **[ADC PROJECT - SHOWUP](https://github.com/Alvesss04/ShowUP)** - 
   Bachelors´s Degree Final Project - An app envolving events for community! its live.
