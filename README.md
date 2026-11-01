@@ -21,7 +21,7 @@ Hi! I’m a Software Engineering Master’s student at NOVA FCT, focused on buil
 
 - **Languages & Frameworks:** Java, Python, C,  JavaScript, TypeScript, React, MYSQL, Dart, OCAML, Assembly, Node.js
 - **Styling & Design:** Html, Css, Bootstrap
-- **Special Tools:** Firebase, Supabase, Git, Flutter, MySQL, Docker, Figma, VSCODE, INTELLIJ, Eclipse
+- **Special Tools:** Firebase, Supabase, Git, Flutter, MySQL, Docker, Figma, VSCODE, INTELLIJ, Eclipse, kubernets
 - **Software Engineering & Methodologies:** UML, Scrum, REST APIs, gRPC, Object-Oriented Design (Design Patterns), Code Smells, VMs
 - **Other:** WebGL, Prolog, Vite, CloudFlare AI, Design algorithm and analysis, Cyber Security basics (Ethical Hacking)
 
