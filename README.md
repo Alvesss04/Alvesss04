@@ -31,7 +31,6 @@ Hi! I’m a Software Engineering Master’s student at NOVA FCT, focused on buil
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Alvesss04/Alvesss04/output/github-contribution-grid-snake.svg" />
-  
   <br/><br/><br/>
 </div>
 
